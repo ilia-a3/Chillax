@@ -23,19 +23,19 @@
 */
 
 /*chillax*/
-@import url('https://daisbuild.com.au/ilia/Chillax-main/chillax.css');
+@import url('https://ilia-a3.github.io/Chillax/chillax.css');
 
 /*removable addons*/
 
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-@import url("https://daisbuild.com.au/ilia/Chillax-main/Addons/IconPackEdited.css");
-@import url("https://daisbuild.com.au/ilia/Chillax-main/Addons/AvatarOnlyMemberList.css");
-@import url("https://daisbuild.com.au/ilia/Chillax-main/Addons/FolderRedesign.css");
+@import url("https://ilia-a3.github.io/Chillax/Addons/IconPackEdited.css");
+@import url("https://ilia-a3.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
+@import url("https://ilia-a3.github.io/Chillax/Addons/FolderRedesign.css");
 */
 /*additional addons*/ /*(remove the both * to use)*/
-@import url("https://daisbuild.com.au/ilia/Chillax-main/Addons/SimpleLessLag.css");
+@import url("https://ilia-a3.github.io/Chillax/Addons/SimpleLessLag.css");
 
 
 
@@ -44,7 +44,7 @@
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--wallpaper);
 /*bg dev suggestions*/
-  --wallpaper: url('https://daisbuild.com.au/ilia/Chillax-main/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
+  --wallpaper: url('https://ilia-a3.github.io/Chillax/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
 /*modern background selection*/
   --modern-dark-bg: var(--wallpaper);
   --modern-light-bg: var(--wallpaper);
