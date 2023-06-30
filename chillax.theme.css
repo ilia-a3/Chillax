@@ -42,13 +42,13 @@
 /*Chillax Roots*/
 :root{
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var(--wallpaper);
+  --background-image:url('https://ilia-a3.github.io/Chillax/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
 /*bg dev suggestions*/
   --wallpaper: url('https://ilia-a3.github.io/Chillax/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
 /*modern background selection*/
-  --modern-dark-bg: var(--wallpaper);
-  --modern-light-bg: var(--wallpaper);
-  --themedarksettingsmodalbackground: var(--wallpaper)
+  --modern-dark-bg: url('https://ilia-a3.github.io/Chillax/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
+  --modern-light-bg: url('https://ilia-a3.github.io/Chillax/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
+  --themedarksettingsmodalbackground: url('https://ilia-a3.github.io/Chillax/HD-wallpaper-stick-em-up-windows-symbol-linus-computer-technology-pemguin.jpg');
 }
 
 
